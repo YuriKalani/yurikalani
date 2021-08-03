@@ -2,12 +2,11 @@
 
 
 - 🌱 Estudando C#
-- 💬 Contate-me no e-mail: yuri.kalani@hotmail.com
 
 <div>
   <a href="https://github.com/yurikalani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurikalani&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikalani&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yurikalani&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurikalani&layout=compact&langs_count=7&theme=gotham"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
